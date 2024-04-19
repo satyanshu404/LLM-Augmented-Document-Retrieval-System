@@ -1,0 +1,9 @@
+transformers
+datasets
+accelerate
+peft
+torch
+wandb
+nltk
+pandas
+rouge-score
